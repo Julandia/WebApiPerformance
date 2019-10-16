@@ -1,0 +1,6 @@
+assembly-versioning-scheme: MajorMinorPatch
+mode: ContinuousDeployment
+assembly-informational-format: '{Major}.{Minor}.{Patch}.{Sha}'
+branches: {}
+ignore:
+  sha: []
